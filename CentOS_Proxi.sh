@@ -2,8 +2,8 @@
 # Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
 #------------------#
-KULLANICI="tarak"
-SIFRE="kurek"
+KULLANICI="242"
+SIFRE="cagatay"
 #------------------#
 
 #------------------#
